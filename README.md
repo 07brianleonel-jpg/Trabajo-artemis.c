@@ -61,7 +61,7 @@ artemis_sim.exe
 ```
 
 ## Autores
-kibish, David Nicolás
-Zarate, Mia Evelyn
-Espindola, Brian Leonel
-Romeli, morales
+kibish, David Nicolás /
+Zarate, Mia Evelyn /
+Espindola, Brian Leonel /
+Romeli, morales /
