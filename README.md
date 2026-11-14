@@ -1,3 +1,11 @@
+## Autores
+kibish, David Nicolás /
+Zarate, Mia Evelyn /
+Espindola, Brian Leonel /
+Romeli, morales /
+
+##Comisión k1.2
+
 # Trabajo-artemis.c
 
 Simulador en C de la fase de ascenso de una misión **Artemis** con el cohete **SLS** (Space Launch System). El programa calcula, mediante ecuaciones de cinemática, cómo evoluciona la altura y la velocidad de la nave durante el despegue, el desacople de los propulsores laterales (SRB) y el vuelo posterior al apagado de motores.
@@ -59,9 +67,6 @@ En Windows:
 ```bash
 artemis_sim.exe
 ```
+##Registro de Uso de Inteligencia Artificial
 
-## Autores
-kibish, David Nicolás /
-Zarate, Mia Evelyn /
-Espindola, Brian Leonel /
-Romeli, morales /
+se usó la inteligencia artificial para la edición del video del grupo, aunque no se modificó ni rostros ni voces, también para la verificación del código (que funcione correctamente), y para aprendizaje del lenguaje de C.
